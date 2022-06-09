@@ -4,13 +4,13 @@
 La plateforme MedHead est détenue conjointement et développée par un consortium de 4 groupes médicaux afin de consolider les apprentissages et les ressources partagés et de développer une norme médicale qui optimise les soins aux patients et les interventions d'urgence.
 
 # Artefacts du projet
-## Prototype pour le système d'intervention d'urgence
-* [Hypothèse pour le développement du prototype du système d'intervention d'urgence](./artefacts/architecture/hypothesis-emergency-responder/)
+## Preuve de concept pour le sous-système d'intervention d'urgence
+* [Hypothèse de développement d'une preuve de concept pour le sous-système d'intervention d'urgence en temps réel](./artefacts/architecture/hypothesis-emergency-responder/)
 * [Statement of Architecture Work for a Proof of Concept for the Real-Time Emergency Responder Subsystem](./artefacts/architecture/architecture-sow/)
 
 ## Architecture Artefacts
 
-* [Architecture Principles Document](./artefacts/architecture/architecture-principles/) - *MedHead's architectural principles and values*
+* [Principes de l’architecture](./artefacts/architecture/architecture-principles/) - *Les principes architecturaux et les valeurs de MedHead*
 * [Architecture Definition Document](./artefacts/architecture/architecture-definition-document/) - *Architecture Definition and goals*
 * [Architecture Models](./artefacts/architecture/architecture-models/)
   * [Reference Data](./artefacts/architecture/models/reference-data/)
