@@ -19,7 +19,5 @@ La plateforme MedHead est détenue conjointement et développée par un consorti
 
 ## Architecture Committee Meeting History
 
-* [Meeting 1](./artefacts/architecture/committee/meetings/meeting-1/README.md) which discussed the Emergency Responder System
+* [Meeting](./meetings/) qui a discuté du système d'intervention d'urgence
 
-
-refs : https://github.com/OpenClassrooms-Student-Center/Software-Architect-P11
