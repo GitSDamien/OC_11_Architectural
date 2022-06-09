@@ -6,12 +6,12 @@ La plateforme MedHead est détenue conjointement et développée par un consorti
 # Artefacts du projet
 ## Preuve de concept pour le sous-système d'intervention d'urgence
 * [Hypothèse de développement d'une preuve de concept pour le sous-système d'intervention d'urgence en temps réel](./artefacts/architecture/hypothesis-emergency-responder/)
-* [Statement of Architecture Work for a Proof of Concept for the Real-Time Emergency Responder Subsystem](./artefacts/architecture/architecture-sow/)
+* [Enoncé des travaux d'architecture TOGAF sur mesure pour la validation de principe](./artefacts/architecture/architecture-sow/)
 
 ## Architecture Artefacts
 
-* [Principes de l’architecture](./artefacts/architecture/architecture-principles/) - *Les principes architecturaux et les valeurs de MedHead*
-* [Architecture Definition Document](./artefacts/architecture/architecture-definition-document/) - *Architecture Definition and goals*
+* [Principes de l’architecture](./artefacts/architecture/architecture-principles/)
+* [Définition de l’architecture](./artefacts/architecture/architecture-definition-document/)
 * [Architecture Models](./artefacts/architecture/architecture-models/)
   * [Reference Data](./artefacts/architecture/models/reference-data/)
     * [Medical Specialism Reference Data](./artefacts/architecture/models/reference-data/specialities/) - *List of Medical Capabilities*
