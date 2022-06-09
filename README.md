@@ -7,17 +7,18 @@ La plateforme MedHead est détenue conjointement et développée par un consorti
 
 # Artefacts du projet
 ## Preuve de concept pour le sous-système d'intervention d'urgence
-* [Hypothèse de validation de principe](./artefacts/architecture/hypothesis-emergency-responder/)
-* [Statement of Architecture Work](./artefacts/architecture/architecture-sow/)
+* [Hypothèse de validation de principe](./artefacts/architecture/hypothesis-emergency-responder/) **
+* [Stratégie de test](./artefacts/testing-strategy/) **
+* [Statement of Architecture Work](./artefacts/architecture/architecture-sow/) **
 
 ## Artefacts architecturaux
 
-* [Principes de l’architecture](./artefacts/architecture/architecture-principles/)
+* [Principes de l’architecture](./artefacts/architecture/architecture-principles/) *
 * [Définition de l’architecture](./artefacts/architecture/architecture-definition-document/)
 * [Données de référence sur les spécialités médicales](./artefacts/architecture/models/reference-data/specialities/)
 * [Registre des risques](./artefacts/architecture/risks)
 * [Roadmap de l'architecture cible](./artefacts/architecture/architecture-roadmap/)
-* [Solution Building Blocks](./artefacts/architecture/solution-building-blocks/)
+* [Solution Building Blocks](./artefacts/architecture/solution-building-blocks/) **
 
 ## Historique des réunions du comité
 
