@@ -14,7 +14,7 @@ La plateforme MedHead est détenue conjointement et développée par un consorti
 * [Définition de l’architecture](./artefacts/architecture/architecture-definition-document/)
 * [Données de référence sur les spécialités médicales](./artefacts/architecture/models/reference-data/specialities/)
 * [Risk Register](./artefacts/architecture/risks) - *Risks identified*
-* [Target State Architecture Roadmap](./artefacts/architecture/architecture-roadmap/) - *Roadmap to our target architecture*
+* [Roadmap de l'architecture cible](./artefacts/architecture/architecture-roadmap/)
 * [Solution Building Blocks](./artefacts/architecture/solution-building-blocks/) - *Reusable patterns and solutions*
 
 ## Architecture Committee Meeting History
