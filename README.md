@@ -18,7 +18,7 @@ La plateforme MedHead est détenue conjointement et développée par un consorti
 * [Données de référence sur les spécialités médicales](./artefacts/architecture/models/reference-data/specialities/)
 * [Registre des risques](./artefacts/architecture/risks)
 * [Roadmap de l'architecture cible](./artefacts/architecture/architecture-roadmap/)
-* [Solution Building Blocks](./artefacts/architecture/solution-building-blocks/) ![Generic badge](https://img.shields.io/badge/-update-green.svg)
+* [Solution Building Blocks](./artefacts/architecture/solution-building-blocks/) [![Generic badge](https://img.shields.io/badge/-update-green.svg)]()
 
 ## Historique des réunions du comité
 
