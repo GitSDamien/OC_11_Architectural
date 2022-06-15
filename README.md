@@ -7,9 +7,9 @@ La plateforme MedHead est détenue conjointement et développée par un consorti
 
 # Artefacts du projet
 ## Preuve de concept pour le sous-système d'intervention d'urgence
-* [Hypothèse de validation de principe](./artefacts/architecture/hypothesis-emergency-responder/) **
-* [Stratégie de test](./artefacts/testing-strategy/) **
-* [Statement of Architecture Work](./artefacts/architecture/architecture-sow/) **
+* [Hypothèse de validation de principe](./artefacts/architecture/hypothesis-emergency-responder/) ![Generic badge](https://img.shields.io/badge/-updated-green.svg)
+* [Stratégie de test](./artefacts/testing-strategy/) ![Generic badge](https://img.shields.io/badge/-updated-green.svg)
+* [Statement of Architecture Work](./artefacts/architecture/architecture-sow/) ![Generic badge](https://img.shields.io/badge/-updated-green.svg)
 
 ## Artefacts architecturaux
 
